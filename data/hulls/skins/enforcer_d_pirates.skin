@@ -1,0 +1,10 @@
+{
+	"ordnancePoints": 100,
+	"weaponSlotChanges": {
+		"WS 003": { "arc": 5, "mount": "HARDPOINT", "type": "COMPOSITE", },
+		"WS 006": { "type": "COMPOSITE" },
+		"WS 007": { "type": "COMPOSITE" },
+		"WS 008": { "type": "COMPOSITE" },
+		"WS 009": { "type": "COMPOSITE" },
+	},
+}

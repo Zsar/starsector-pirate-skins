@@ -1,0 +1,41 @@
+{
+	"displayName": "Strike",
+	"fluxCapacitors": 10,
+	"fluxVents": 0,
+	"goalVariant": true,
+	"hullId": "shrike_pirates",
+	"hullMods": [
+		"missleracks",
+		"frontemitter",
+		"unstable_injector",
+	],
+	"permaMods": [],
+	"sMods": [],
+	"variantId": "shrike_p_Strike",
+	"weaponGroups": [{
+		"autofire": false,
+		"mode": "LINKED",
+		"weapons": { "WS 001": "lightneedler" },
+	},{
+		"autofire": false,
+		"mode": "ALTERNATING",
+		"weapons": {
+			"WS 003": "jackhammer",
+			"WS 005": "jackhammer",
+		},
+	},{
+		"autofire": true,
+		"mode": "ALTERNATING",
+		"weapons": {
+			"WS 000": "ioncannon",
+			"WS 002": "ioncannon",
+		},
+	},{
+		"autofire": true,
+		"mode": "ALTERNATING",
+		"weapons": {
+			"WS 006": "pdlaser",
+			"WS 007": "pdlaser",
+		},
+	}],
+}

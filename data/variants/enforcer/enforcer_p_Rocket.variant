@@ -1,0 +1,49 @@
+{
+	"displayName": "Rocket",
+	"fluxCapacitors": 6,
+	"fluxVents": 12,
+	"goalVariant": true,
+	"hullId": "enforcer_d_pirates",
+	"hullMods": [
+		"eccm",
+		"missleracks",
+		"unstable_injector",
+	],
+	"permaMods": [],
+	"sMods": [],
+	"variantId": "enforcer_p_Rocket",
+	"weaponGroups": [{
+		"autofire": false,
+		"mode": "ALTERNATING",
+		"weapons": {
+			"WS 002": "heavymg",
+			"WS 004": "heavymg",
+		},
+	},{
+		"autofire": false,
+		"mode": "ALTERNATING",
+		"weapons": {
+			"WS 007": "annihilator",
+			"WS 008": "annihilator",
+		},
+	},{
+		"autofire": false,
+		"mode": "ALTERNATING",
+		"weapons": {
+			"WS 006": "hammer",
+			"WS 009": "hammer",
+		},
+	},{
+		"autofire": false,
+		"mode": "LINKED",
+		"weapons": { "WS 003": "jackhammer", },
+	},{
+		"autofire": true,
+		"mode": "LINKED",
+		"weapons": { "WS 001": "shredder", },
+	},{
+		"autofire": true,
+		"mode": "LINKED",
+		"weapons": { "WS 005": "shredder", },
+	},],
+}
