@@ -1,7 +1,7 @@
 {
 	"displayName": "Missile",
-	"fluxCapacitors": 10,
-	"fluxVents": 8,
+	"fluxCapacitors": 18,
+	"fluxVents": 0,
 	"goalVariant": true,
 	"hullId": "enforcer_d_pirates",
 	"hullMods": [
@@ -13,12 +13,11 @@
 	"variantId": "enforcer_p_Missile",
 	"weaponGroups": [{
 		"autofire": false,
-		"mode": "LINKED",
-		"weapons": { "WS 002": "heavyac", },
-	},{
-		"autofire": false,
-		"mode": "LINKED",
-		"weapons": { "WS 004": "chaingun", },
+		"mode": "ALTERNATING",
+		"weapons": {
+			"WS 002": "heavyac",
+			"WS 004": "heavyac",
+		},
 	},{
 		"autofire": false,
 		"mode": "ALTERNATING",
@@ -31,7 +30,7 @@
 	},{
 		"autofire": false,
 		"mode": "LINKED",
-		"weapons": { "WS 003": "harpoonpod", },
+		"weapons": { "WS 003": "chaingun", },
 	},{
 		"autofire": true,
 		"mode": "ALTERNATING",
