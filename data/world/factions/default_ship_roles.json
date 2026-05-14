@@ -1,0 +1,12 @@
+{
+  "combatMedium": {
+	"enforcer_d_pirates_Strike": 5, # halved
+	"enforcer_p_Fleet"  :  5,
+	"enforcer_p_Missile": 10,
+	"enforcer_p_Rocket" : 10,
+	"shrike_p_Strike": 10,
+  },
+  "escortMedium": {
+	"enforcer_p_Fleet": 10,
+  },
+}

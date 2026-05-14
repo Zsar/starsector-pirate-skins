@@ -2,7 +2,7 @@
 	"id": "ZsarPirateSkins",
 	"name": "Pirate Skins",
 	"author": "Zsar",
-	"version": { "major": 1, "minor": 1, "patch": 0 },
+	"version": { "major": 1, "minor": 2, "patch": 0 },
 	"description": "? Enforcer (P)\n  ? OP 110 => 100\n  ? medium center mount type BALLISTIC => HYBRID\n  ? small mounts type MISSILE => COMPOSITE\n? Manticore (P) medium mounts type MISSILE => COMPOSITE\n? Shrike (P) medium mount type ENERGY => SYNERGY",
 	"gameVersion": "0.98a-RC8",
 }
